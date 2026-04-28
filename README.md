@@ -81,7 +81,9 @@ Customers are scored 1-4 on each RFM component and combined into a final RFM sco
 The final XGBoost model successfully identifies 75% of churned customers — meaning the business can proactively reach out to 3 out of every 4 customers likely to churn before they are lost.
 
 ## Tools & Libraries
-python
+
+```python
+python        # programming language
 pandas        # data manipulation
 numpy         # numerical computing
 matplotlib    # data visualization
@@ -89,7 +91,7 @@ seaborn       # statistical visualization
 sklearn       # machine learning & evaluation
 xgboost       # gradient boosting model
 jupyter       # development environment
-
+```
 ## How to Run This Project
 ### 1. Clone the repository
     bashgit clone https://github.com/angelamawia/customer-segmentation-retention-analysis.git
