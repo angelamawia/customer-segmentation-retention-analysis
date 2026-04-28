@@ -118,7 +118,7 @@ jupyter       # development environment
     Angela Mawia
 
     GitHub: angelamawia
-    LinkedIn: [Your LinkedIn URL]
+    LinkedIn: linkedin.com/in/angela-mawia-a2114b213
 
 ## Acknowledgements
 Dataset sourced from the UCI Machine Learning Repository
