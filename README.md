@@ -118,6 +118,9 @@ jupyter       # development environment
 ## Project Status
     ✅ Complete
 
+## 🚀 Live Demo
+👉 [View Live App](https://customer-segmentation-retention-analysis-7jvkeknygmgfu2aque6r3.streamlit.app/)
+
 ## Author
     Angela Mawia
 
