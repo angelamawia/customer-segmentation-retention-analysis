@@ -45,13 +45,16 @@ Model Evaluation & Interpretation
     Churn Label = 0  if Recency ≤ 90 days
 
 ## RFM Segmentation
+
 Customers are scored 1-4 on each RFM component and combined into a final RFM score ranging from 3 to 12:
 
-RFM Score                    Customer Segment
-10 — 12                      🏆 Champions
-7 — 9                        ⭐ Loyal Customers
-5 — 6                        ⚠️ At Risk
-3 — 4                        ❌ Lost Customers
+| RFM Score | Customer Segment |
+|-----------|-----------------|
+| 10 — 12   | 🏆 Champions    |
+| 7 — 9     | ⭐ Loyal Customers |
+| 5 — 6     | ⚠️ At Risk      |
+| 3 — 4     | ❌ Lost Customers |
+
 
 ## Machine Learning Models
 ### Models Trained
