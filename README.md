@@ -19,7 +19,7 @@ This project performs end-to-end customer segmentation and retention analysis on
 5. Churn Prediction Model — Build a machine learning model to predict which customers are likely to churn
 
 ## Project Workflow
-
+```
 Raw Data
    ↓
 Data Cleaning & Preprocessing
@@ -35,6 +35,8 @@ Churn Definition & Labeling
 Machine Learning Model (XGBoost)
    ↓
 Model Evaluation & Interpretation
+```
+
 
 ## Churn Definition
     A customer is defined as churned if they have not made a purchase in the last 90 days relative to the most recent  transaction date in the dataset.
