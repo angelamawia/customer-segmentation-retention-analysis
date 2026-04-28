@@ -58,18 +58,20 @@ Customers are scored 1-4 on each RFM component and combined into a final RFM sco
 
 ## Machine Learning Models
 ### Models Trained
-Model                       Accuracy             Churned Recall
-Random Forest (baseline)    67.5%                44%
-Random Forest (balanced)    67.5%                44%
-Random Forest (n=500)       67.7%                44%
-XGBoost (final model)       69.7%                75%
+| Model | Accuracy | Churned Recall |
+|-------|----------|---------------|
+| Random Forest (baseline) | 67.5% | 44% |
+| Random Forest (balanced) | 67.5% | 44% |
+| Random Forest (n=500) | 67.7% | 44% |
+| **XGBoost (final model)** | **69.7%** | **75%** |
 
 ## Final Model — XGBoost Classifier
     Accuracy:  69.7%
 
-## Class          ## Precision        ## Recall          ## F1-Score
-Active (0)         0.83                 0.67               0.74
-Churned (1)        0.55                 0.75               0.64
+| Class | Precision | Recall | F1-Score |
+|-------|-----------|--------|----------|
+| Active (0) | 0.83 | 0.67 | 0.74 |
+| Churned (1) | 0.55 | 0.75 | 0.64 |
 
 ## Confusion Matrix
     [[376  185]
