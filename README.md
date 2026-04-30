@@ -7,12 +7,12 @@
 This project performs end-to-end customer segmentation and retention analysis on a real-world online retail dataset. The goal is to understand customer behavior, identify at-risk customers, calculate customer lifetime value, and build a machine learning model to predict customer churn.
 
 ## Dataset
-    ...
+    
     . Source: UCI Machine Learning Repository — Online Retail Dataset
     . Size: 541,909 transactions
     . Period: December 2010 — December 2011
     . Description: Transactional data from a UK-based online retail store containing all  purchases made between 2010 and 2011
-    ...
+    
 
 ## Project Goals
 
